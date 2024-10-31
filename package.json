@@ -1,0 +1,26 @@
+{
+  "name": "p2coin",
+  "version": "1.0.0",
+  "description": "An coin exchange converter",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Parveen-Pal/p2coin.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Parveen Pal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Parveen-Pal/p2coin/issues"
+  },
+  "homepage": "https://github.com/Parveen-Pal/p2coin#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
